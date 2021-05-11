@@ -1,3 +1,3 @@
-#Demo tolearn git
+#Demo to learn git
 
 some description
